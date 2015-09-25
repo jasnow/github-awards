@@ -40,3 +40,6 @@ newrelic.yml
 bower.json
 
 ressources/*
+
+# To not force .overcommit on other people.
+.overcommit.yml
